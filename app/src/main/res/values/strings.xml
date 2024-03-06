@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">0306</string>
+    <string name="subject">科目</string>
+    <string name="score">成績</string>
+    <string name="pass_or_not">是否及格</string>
+    <string name="en">英文</string>
+    <string name="CH">國文</string>
+    <string name="Math">數學</string>
+    <string name="check_score">檢查成績</string>
+</resources>
