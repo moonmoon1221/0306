@@ -7,4 +7,5 @@
     <string name="CH">國文</string>
     <string name="Math">數學</string>
     <string name="check_score">檢查成績</string>
+    <string name="sum">總分</string>
 </resources>
